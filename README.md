@@ -1,8 +1,4 @@
-# React + Vite
+# React.js 動態網站程式框架基礎：課程作品 （useState Hook)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+(原始碼 Github Repo)[https://github.com/michellechang2006/react_jobs_tabs_demo] ｜｜ [Live Demo](https://michellechang2006.github.io/react_jobs_tabs_demo)
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh

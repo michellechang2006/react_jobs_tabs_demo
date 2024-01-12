@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 .github-logo{
-    @apply absolute h-24 bg-white w-24 rounded-full bottom-1  right-3
+    @apply absolute h-24 bg-white w-24 rounded-full bottom-0  right-3
 }
 
 body {
