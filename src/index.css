@@ -2,7 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
+.github-logo{
+    @apply absolute h-24 bg-white w-24 rounded-full bottom-1  right-3
+}
+
 body {
+    position: relative;
     @apply bg-neutral-100
 }
 

@@ -15,6 +15,7 @@ export default function NavBtns({onSelected,active}) {
                     <NavBtn active={active === index? true : false} key={item.tab} onSelected={() => {onSelected(index)}} >{item.tab}</NavBtn>
                 )
             })}
+           
         </ul>
     )
 }
